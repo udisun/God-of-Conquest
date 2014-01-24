@@ -1,0 +1,1615 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"as",
+				"assets/images/treeTrunk"
+			],
+			[
+				"tile",
+				"tileWidth  (variable)"
+			],
+			[
+				"ph",
+				"physics"
+			],
+			[
+				"collide",
+				"collideWorldBounds"
+			],
+			[
+				"animatio",
+				"animations"
+			],
+			[
+				"allow",
+				"allowCollision"
+			],
+			[
+				"gra",
+				"gravity"
+			],
+			[
+				"im",
+				"immovable"
+			],
+			[
+				"spri",
+				"sprite"
+			],
+			[
+				"asse",
+				"assets/"
+			],
+			[
+				"trans",
+				"translate"
+			],
+			[
+				"P",
+				"PIXI"
+			],
+			[
+				"device",
+				"devicePixelRatio"
+			],
+			[
+				"geteleme",
+				"getElementById  (function)"
+			],
+			[
+				"rect",
+				"rect(x, y, w, h)	game.js"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"canvas",
+				"canvasMinX  (variable)"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"select",
+				"selectors_number"
+			],
+			[
+				"agg_sty",
+				"agg_styles"
+			],
+			[
+				"w",
+				"watchdog	watchdog"
+			],
+			[
+				"backgrou",
+				"background-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/js/states/Game.js",
+			"settings":
+			{
+				"buffer_size": 4149,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/js/states/Boot.js",
+			"settings":
+			{
+				"buffer_size": 2672,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/js/main.js",
+			"settings":
+			{
+				"buffer_size": 858,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/js/entities/Player.js",
+			"settings":
+			{
+				"buffer_size": 2100,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MNPP/conf/nginx/sites-enabled/strauss.local",
+			"settings":
+			{
+				"buffer_size": 1277,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MNPP/conf/nginx/common/drupal",
+			"settings":
+			{
+				"buffer_size": 1235,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MNPP/conf/nginx/common/php",
+			"settings":
+			{
+				"buffer_size": 172,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MNPP/conf/nginx/sites-enabled/hidavroot.local",
+			"settings":
+			{
+				"buffer_size": 322,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"templa",
+				"Snippet: Simple HTML5 Boilerplate"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"instal p",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 588.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MNPP/htdocs/phaser/examples/games/tanks.js",
+		"/Users/ehud/Development/personal/god_of_conquest/src/js/lib/phaser.js",
+		"/Applications/MNPP/conf/nginx/nginx.conf",
+		"/Applications/MNPP/conf/nginx/common/drupal",
+		"/Applications/MNPP/conf/nginx/sites-enabled/default",
+		"/Applications/MNPP/conf/nginx/common/php",
+		"/Applications/MNPP/logs/php/php-fpm.log",
+		"/Users/ehud/Development/personal/god_of_conquest/src/index.html",
+		"/Applications/MNPP/htdocs/phaser/wip/TS Source/physics/PhysicsManager.ts",
+		"/Applications/MNPP/htdocs/phaser/tutorials/02_Making_Your_First_Game/part9.html",
+		"/Users/ehud/Development/personal/god_of_conquest/src/js/Player.js",
+		"/Applications/MNPP/htdocs/phaser/examples/tile sprites/animated tiling sprite.js",
+		"/Applications/MNPP/htdocs/phaser/examples/tilemaps/swap tiles.js",
+		"/Users/ehud/Development/personal/god_of_conquest/src/js/main.js",
+		"/Users/ehud/Development/personal/god_of_conquest/src/js/states/Preloader.js",
+		"/Users/ehud/Development/personal/god_of_conquest/src/js/states/MainMenu.js",
+		"/Users/ehud/Library/Application Support/Sublime Text 2/Packages/AutoFileName/autofilename.sublime-settings",
+		"/Users/ehud/Development/personal/god_of_conquest/src/assets/tiles/BattleMap.json",
+		"/Users/ehud/Development/personal/god_of_conquest/src/js/states/Boot.js",
+		"/Users/ehud/Library/Application Support/Sublime Text 2/Packages/JsFormat/Default (OSX).sublime-keymap",
+		"/Users/ehud/Library/Application Support/Sublime Text 2/Packages/JsFormat/JsFormat.sublime-settings",
+		"/Users/ehud/Downloads/change_taxonomy.php",
+		"/Users/ehud/Development/personal/platform1/js/game.js",
+		"/Users/ehud/Development/personal/platform1/js/index.js",
+		"/Users/ehud/Development/personal/platform1/www/css/index.css",
+		"/Users/ehud/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/ehud/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/ehud/Library/Application Support/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+		"/Applications/MNPP/htdocs/phaser/tutorials/02_Making_Your_First_Game/part1.html",
+		"/Users/ehud/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/ehud/Development/personal/htmlgame1/www/js/phonegap.js",
+		"/Users/ehud/Development/personal/htmlgame1/www/js/index.js",
+		"/Users/ehud/Development/personal/htmlgame1/index.html",
+		"/Users/ehud/Development/personal/htmlgame1/js/box2dutils.js",
+		"/Users/ehud/Development/personal/htmlgame1/js/game.js",
+		"/Users/ehud/Development/personal/htmlgame1/js/box2d/common/math/b2Vec2.js",
+		"/Users/ehud/Development/linnovate/machsom/sites/all/modules/css_custom_aggregate/css_custom_aggregate.module",
+		"/Users/ehud/Development/linnovate/machsom/includes/common.inc",
+		"/Users/ehud/Development/linnovate/machsom/sites/all/themes/mwtheme/mwtheme.info",
+		"/Users/ehud/Development/linnovate/machsom/sites/all/themes/mwtheme/template.php",
+		"/Users/ehud/Development/linnovate/machsom/modules/color/color.module",
+		"/Users/ehud/Library/Application Support/Sublime Text 2/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/ehud/Development/linnovate/machsom/themes/garland/template.php",
+		"/Users/ehud/Library/Application Support/Sublime Text 2/Packages/HTML-CSS-JS Prettify/Default (OSX).sublime-keymap",
+		"/Users/ehud/Development/linnovate/machsom/sites/all/themes/mwtheme/stylesheets/mwtheme_2.css",
+		"/Users/ehud/Development/linnovate/machsom/sites/all/themes/mwtheme/stylesheets/mwtheme-rtl.css",
+		"/Users/ehud/Development/linnovate/machsom/sites/all/modules/advagg/advagg_css_compress/advagg_css_compress.module",
+		"/Users/ehud/Development/linnovate/machsom/sites/all/modules/advagg/advagg.module",
+		"/Users/ehud/Development/linnovate/machsom/sites/all/modules/advagg/advagg_bundler/advagg_bundler.module",
+		"/Users/ehud/Development/linnovate/machsom/sites/all/themes/mwtheme/sass/partials/_footer.scss",
+		"/Users/ehud/Development/linnovate/machsom/sites/all/modules/css_custom_aggregate/css_custom_aggregate.info",
+		"/Users/ehud/Development/linnovate/machsom/sites/all/modules/custom/css_custom_aggregate/css_custom_aggregate.module.html",
+		"/Users/ehud/Development/linnovate/machsom/sites/all/modules/custom/css_custom_aggregate/css_custom_aggregate.info",
+		"/Users/ehud/Development/linnovate/phonegap-guidestarapp/www/config.xml",
+		"/Users/ehud/Development/linnovate/phonegap-guidestarapp/www/js/index.js",
+		"/Users/ehud/Development/linnovate/phonegap-guidestarapp/www/js/controllers/index.js",
+		"/Users/ehud/Development/linnovate/guidestarapp/public/js/controllers/index.js",
+		"/Users/ehud/Development/linnovate/phonegap-guidestarapp/www/js/services/solrSearch.js",
+		"/Users/ehud/Development/linnovate/guidestarapp/public/views/system/header.html",
+		"/Users/ehud/Development/linnovate/guidestarapp/public/sass/style.scss",
+		"/Users/ehud/Development/linnovate/phonegap-guidestarapp/www/views/homePage2.html",
+		"/Users/ehud/Development/linnovate/phonegap-guidestarapp/www/views/homePage.html",
+		"/Users/ehud/Development/linnovate/phonegap-guidestarapp/www/js/config.js",
+		"/Users/ehud/Development/linnovate/phonegap-guidestarapp/www/index.html",
+		"/Users/ehud/Development/linnovate/phonegap-guidestarapp/www/css/common.css",
+		"/Users/ehud/Development/linnovate/phonegap-guidestarapp/www/js/services/getData.js",
+		"/Users/ehud/Development/linnovate/phonegap-guidestarapp/www/js/services/global.js",
+		"/Users/ehud/Development/linnovate/phonegap-guidestarapp/www/js/app.js",
+		"/Users/ehud/Development/linnovate/guidestarapp/config/routes.js",
+		"/Users/ehud/Development/linnovate/guidestarapp/server.js",
+		"/Users/ehud/Development/linnovate/guidestar/sites/all/modules/guidestar/guidestar.module",
+		"/Users/ehud/Development/linnovate/phonegap-guidestarapp/www/js/init.js",
+		"/Users/ehud/Development/linnovate/guidestarapp/app/controllers/search.js",
+		"/Users/ehud/Development/linnovate/guidestarapp/config/express.js",
+		"/Users/ehud/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/ehud/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/ehud/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/ehud/Development/linnovate/guidestarapp/app/views/layouts/default.jade",
+		"/Users/ehud/Development/linnovate/guidestarapp/app/views/index.jade",
+		"/Users/ehud/Development/linnovate/phonegap-guidestarapp/www/spec/index.js"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"onAnimationComplete",
+			"onComplete",
+			"fireballHitsRocks",
+			"rotation",
+			"angleToPointer",
+			"moveToPointer:",
+			"physicsManager",
+			"physics",
+			"player",
+			"110",
+			"tileset: ",
+			"desert",
+			"      \n",
+			"BasicGame",
+			");\n",
+			"{\n",
+			"theme",
+			"resizeGame",
+			"canvasMinX",
+			"drag",
+			"ctx",
+			"drupal_load_stylesheet",
+			"key",
+			"defer",
+			"unset",
+			"hook_",
+			"../img/",
+			"linnovate-logo",
+			"drupal_build_css_cache",
+			"drupal_get_css",
+			"drupal_add_css",
+			"n drupal_add_js(",
+			"proxy",
+			"async",
+			"section"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"GameCtr",
+			"var gameCtr = {\n  game: null,\n  platforms: null,\n  player: null,\n  cursors: null,\n  badguy: null,\n  stars: null,\n  score: 0,\n  scoreText: \"\",\n  lives: 3,\n  livesText: \"\",\n  preload: function() {\n    alert(2);\n    game.load.image('sky', 'img/sky.png');\n    game.load.image('ground', 'img/platform.png');\n    game.load.image('star', 'img/star.png');\n    game.load.spritesheet('dude', 'img/dude.png', 32, 48);\n    game.load.spritesheet('baddie', 'img/baddie.png', 32, 32);\n\n  },\n  create: function() {\n    alert(3);\n  //  A simple background for our game\n  game.add.sprite(0, 0, 'sky');\n\n  //  The platforms group contains the ground and the 2 ledges we can jump on\n  platforms = game.add.group();\n\n  // Here we create the ground.\n  var ground = platforms.create(0, game.world.height - 64, 'ground');\n\n  //  Scale it to fit the width of the game (the original sprite is 400x32 in size)\n  ground.scale.setTo(2, 2);\n\n  //  This stops it from falling away when you jump on it\n  ground.body.immovable = true;\n\n  //  Now let's create two ledges\n  var ledge = platforms.create(400, 400, 'ground');\n  ledge.body.immovable = true;\n\n  ledge = platforms.create(-150, 250, 'ground');\n  ledge.body.immovable = true;\n\n  ledge = platforms.create(-350, 450, 'ground');\n  ledge.body.immovable = true;\n\n  // The player and its settings\n  player = game.add.sprite(12, game.world.height - 250, 'dude');\n\n  //  Player physics properties. Give the little guy a slight bounce.\n  player.body.bounce.y = 0.2;\n  player.body.gravity.y = 6;\n  player.body.collideWorldBounds = true;\n\n  //  Our two animations, walking left and right.\n  player.animations.add('left', [0, 1, 2, 3], 10, true);\n  player.animations.add('right', [5, 6, 7, 8], 10, true);\n\n  // The badguy\n  badguy = game.add.sprite(600, game.world.height - 150, 'baddie');\n  badguy.body.bounce.y = 0.2;\n  badguy.body.gravity.y = 8;\n  badguy.body.collideWorldBounds = true;\n\n  //  Our two animations, walking left and right.\n  badguy.animations.add('left', [0, 1], 10, true);\n  badguy.animations.add('right', [2, 3], 10, true);\n\n  badguy.body.velocity.x = -150;\n  badguy.animations.play('left');\n\n  //  Finally some stars to collect\n  stars = game.add.group();\n\n  //  Here we'll create 12 of them evenly spaced apart\n  for (var i = 0; i < 12; i++)\n  {\n      //  Create a star inside of the 'stars' group\n      var star = stars.create(i * 70, 0, 'star');\n\n      //  Let gravity do its thing\n      star.body.gravity.y = 8;\n\n      //  This just gives each star a slightly random bounce value\n      star.body.bounce.y = 0.1 + Math.random() * 0.2;\n    }\n\n  //  The score\n  scoreText = game.add.text(16, 16, 'Score: ' + score, { fontSize: '32px', fill: '#000' });\n\n  livesText = game.add.text(game.world.width - 120, 16, lives + ' :Lives', { fontSize: '32px', fill: '#000' });\n\n  //  Our controls.\n  cursors = game.input.keyboard.createCursorKeys();\n\n  // Use Austin Hallock's HTML5 Virtual Game Controller\n  // https://github.com/austinhallock/html5-virtual-game-controller/\n  // Note: you must also require gamecontroller.js on your host page.\n\n  // Init game controller with left thumb stick\n  GameController.init({\n    left: {\n      type: 'joystick',\n      position: {\n        top: '20%'\n      },\n      joystick: {\n        touchStart: function() {\n          // Don't need this, but the event is here if you want it.\n        },\n        touchMove: function(joystick_details) {\n          game.input.joystickLeft = joystick_details;\n        },\n        touchEnd: function() {\n          game.input.joystickLeft = null;\n        }\n      }\n    },\n    right: {\n      // We're not using anything on the right for this demo, but you can add buttons, etc.\n      // See https://github.com/austinhallock/html5-virtual-game-controller/ for examples.\n      type: 'none'\n    }\n  });\n}\n}\n\nfunction update() {\n\n  //  Collide the player and the stars with the platforms\n  game.physics.collide(player, platforms);\n  game.physics.collide(badguy, platforms);\n  game.physics.collide(stars, platforms);\n\n  if (badguy.body.x < game.world.bounds.left + 80 && badguy.animations.currentAnim.name == 'left') {\n    badguy.body.velocity.x = 150 ;\n    badguy.animations.play('right');\n  }\n  else if (badguy.body.x > game.world.bounds.right - 80 && badguy.animations.currentAnim.name == 'right') {\n    badguy.body.velocity.x = -150 ;\n    badguy.animations.play('left');\n  }\n\n  //  Checks to see if the player overlaps with any of the stars, if he does call the collectStar function\n  game.physics.overlap(player, stars, collectStar, null, this);\n  game.physics.overlap(player, badguy, killPlayer, null, this);\n\n  // Check key states every frame.\n  if (game.input.joystickLeft) {\n    // Move the ufo using the joystick's normalizedX and Y values,\n    // which range from -1 to 1.\n    player.body.velocity.setTo(\n      game.input.joystickLeft.normalizedX * 200,\n      game.input.joystickLeft.normalizedY * 150 * -1);\n  }\n  else {\n    //player.body.velocity.setTo(0, 0);\n  }\n\n  //  Reset the players velocity (movement)\n  player.body.velocity.x = 0;\n\n  if (cursors.left.isDown)\n  {\n    //  Move to the left\n    player.body.velocity.x = -150;\n\n    player.animations.play('left');\n  }\n  else if (cursors.right.isDown)\n  {\n    //  Move to the right\n    player.body.velocity.x = 150;\n\n    player.animations.play('right');\n  }\n  else\n  {\n    //  Stand still\n    player.animations.stop();\n\n    player.frame = 4;\n  }\n\n  //  Allow the player to jump if they are touching the ground.\n  if (cursors.up.isDown && player.body.touching.down)\n  {\n    player.body.velocity.y = -350;\n  }\n}\n\nfunction collectStar (player, star) {\n\n  // Removes the star from the screen\n  star.kill();\n\n  //  Add and update the score\n  score += 10;\n  scoreText.content = 'Score: ' + score;\n}\n\nfunction killPlayer(player, badguy) {\n  player.kill();\n\n  lives -= 1;\n  livesText.content = lives + ' :Lives';\n\n  if (lives > 0) {\n    player.x = 12;\n    player.y = game.world.height - 250;\n    player.revive();\n  }\n  else {\n    // Game over\n    alert(\"Game Over\");\n  }\n}"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/js/states/Game.js",
+					"settings":
+					{
+						"buffer_size": 4149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3861,
+								3861
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1567.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/js/states/Boot.js",
+					"settings":
+					{
+						"buffer_size": 2672,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1327,
+								1327
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 991.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/js/main.js",
+					"settings":
+					{
+						"buffer_size": 858,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								420,
+								420
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/js/entities/Player.js",
+					"settings":
+					{
+						"buffer_size": 2100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								979,
+								983
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 685.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Applications/MNPP/conf/nginx/sites-enabled/strauss.local",
+					"settings":
+					{
+						"buffer_size": 1277,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1272,
+								1272
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2.0,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5.0,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10.0,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 248.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Applications/MNPP/conf/nginx/common/drupal",
+					"settings":
+					{
+						"buffer_size": 1235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1139,
+								1235
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 400.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Applications/MNPP/conf/nginx/common/php",
+					"settings":
+					{
+						"buffer_size": 172,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								125,
+								155
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Applications/MNPP/conf/nginx/sites-enabled/hidavroot.local",
+					"settings":
+					{
+						"buffer_size": 322,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								314,
+								314
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"tanks",
+				"phaser/examples/games/tanks.js"
+			],
+			[
+				"phsyics",
+				"phaser/wip/TS Source/physics/PhysicsManager.ts"
+			],
+			[
+				"tsprite",
+				"phaser/examples/tile sprites/animated tiling sprite.js"
+			],
+			[
+				"tileswap",
+				"phaser/examples/tilemaps/swap tiles.js"
+			],
+			[
+				"swap",
+				"phaser/examples/tilemaps/swap tiles.js"
+			],
+			[
+				"menu.",
+				"src/js/states/MainMenu.js"
+			],
+			[
+				"game",
+				"src/js/states/Game.js"
+			],
+			[
+				"index.",
+				"www/css/index.css"
+			],
+			[
+				"b2vec2",
+				"js/box2d/common/math/b2Vec2.js"
+			],
+			[
+				"mwthetemplate",
+				"sites/all/themes/mwtheme/template.php"
+			],
+			[
+				"templa",
+				"themes/garland/template.php"
+			],
+			[
+				"c",
+				"includes/common.inc"
+			],
+			[
+				"css_cus",
+				"sites/all/modules/css_custom_aggregate/css_custom_aggregate.module"
+			],
+			[
+				"adv_aggre",
+				"sites/all/modules/advagg/advagg_css_compress/advagg_css_compress.module"
+			],
+			[
+				"custom_agg",
+				"sites/all/modules/css_custom_aggregate/css_custom_aggregate.module"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 159.0,
+	"status_bar_visible": true
+}
