@@ -5,7 +5,7 @@
  </tileset>
  <layer name="ground" width="25" height="19">
   <data encoding="base64" compression="zlib">
-   eJyTY2BgkBvhWGMQuAEfVhsEbhhILD8I3EAvPBjTot4A2as+CPw+GDA108RQyUv6g8AN1MYAHKw3/Q==
+   eJyTY2BgkBvFo3gUj+JRPIpHMc0wABO9N6s=
   </data>
  </layer>
  <layer name="stronghold" width="25" height="19">
@@ -15,12 +15,12 @@
  </layer>
  <layer name="rocks" width="25" height="19">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUjIJRMApGAS0BAAdsAAE=
+   eJxjYBieQH2gHTBAQH6gHTAKcAKFgXYAAUDtPGNAZfMoBRoDYKfeANhJD4Aet/oD4oqhBQB+PAFz
   </data>
  </layer>
  <layer name="paths" width="25" height="19">
   <data encoding="base64" compression="zlib">
-   eJxjZGBgYAJiZiBmBWJ+KmAWIGZEMpcTKkYLAHIzNxAL0sh8GBAGYh4a28HLAAk/WgJYHHERwPgAIb0wO4gxg1Q5dH8QAvjsIARIsQPdPGL8QIodlABy7CDG7aN2DG47SC1zSbUDVPYyUsEOBTzqYfUHKWUvKf4Albmw+kOIAVLOw8phSjEPmrkAJ4cF6w==
+   eJxjZGBgYKIhZgZiTgbaAu5RO0i2g4sAxgcI6SXGH/jsIcYNxIYVPjsIAVLsQDePGD+QYgclgBw7iHH7qB2jdgwXOwSBWIiGWBiIAWJgBJ0=
   </data>
  </layer>
 </map>
