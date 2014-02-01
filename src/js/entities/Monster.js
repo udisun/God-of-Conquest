@@ -10,13 +10,15 @@
     this.animations.add('attack', [9, 10, 11, 12, 13, 14, 15, 16]);
     this.animations.add('moveWounded', [18, 19, 20, 21, 22, 23, 24, 25]);
     this.animations.add('move', [27, 28, 29, 30, 31, 32, 33, 34]);
-    this.animations.play('move', 15, true);
+    this.animations.play('move', 10, true);
 
     this.game = game;
-    this.health = 100;
+    this.hitPoints = 100;
+    this.health = this.hitPoints;
     this.armor = 10;
+    this.attacking = false;
 
-    game.add.existing(this);
+    //game.add.existing(this);
   }
 
   Monster.prototype = Object.create(Phaser.Sprite.prototype);
@@ -24,6 +26,13 @@
 
   Monster.prototype.update = function() {
     //console.log(this.visible);
+  };
+
+  Monster.prototype.attack = function() {
+    this.attacking = true;
+
+    var attackAnim = (this.health < this.hitPoints ? 'attackWounded' : 'attack');
+    this.animations.play(attackAnim, 10, true);
   };
 
   Monster.prototype.takeDamage = function(damage) {
@@ -35,7 +44,9 @@
         this.kill();
       } else {
         // Wounded
-        this.animations.play('moveWounded', 10, true);
+        var anim = (this.attacking ? 'attackWounded' : 'moveWounded');
+
+        this.animations.play(anim, 5, true);
         this.damage(actualDamage);
       }
     }
